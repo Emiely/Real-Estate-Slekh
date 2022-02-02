@@ -1,10 +1,4 @@
-<?php
 
-
-include "inc/db.php";
-
-
-?>
 
 <style>
 @media screen and (max-width:350px){
@@ -64,11 +58,11 @@ include "inc/db.php";
    القائمة :
   </h2>
   <ul class="box h-box">
-    <li> <a href="index1.php"> الرئيسية</a></li>
-    <li> <a href="about.php"> من نحن</a></li>
-    <li> <a href="state.php"> العقارات</a></li>
-    <li> <a href="info.php"> التعليمات</a></li>
-    <li> <a href="contact1.php"> اتصل بنا</a></li>
+    <li> <a href="index1.html"> الرئيسية</a></li>
+    <li> <a href="about.html"> من نحن</a></li>
+    <li> <a href="state.html"> العقارات</a></li>
+    <li> <a href="info.html"> التعليمات</a></li>
+    <li> <a href="contact1.html"> اتصل بنا</a></li>
    </ul>
 </div>
 

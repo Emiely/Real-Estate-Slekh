@@ -27,10 +27,7 @@
 <body >
   <!--the start
 
-<?php
-session_start();
 
-?>
 -->
 
   <!-- header section starts  -->
@@ -44,12 +41,12 @@ session_start();
 
 
     <nav class="navbar">
-        <a class="nav-link active" aria-current="page" href="index1.php" data-scroll="home"> الرئيسية</a>
-        <a class="nav-link " aria-current="page" href="about.php" data-scroll="who1">من نحن</a>
-        <a class="nav-link " aria-current="page" href="state.php" data-scroll="jobs"> العقارات</a>
-        <a class="nav-link " aria-current="page" href="info.php" data-scroll="transection">التعليمات</a>
+        <a class="nav-link active" aria-current="page" href="index1.html" data-scroll="home"> الرئيسية</a>
+        <a class="nav-link " aria-current="page" href="about.html" data-scroll="who1">من نحن</a>
+        <a class="nav-link " aria-current="page" href="state.html" data-scroll="jobs"> العقارات</a>
+        <a class="nav-link " aria-current="page" href="info.html" data-scroll="transection">التعليمات</a>
         <!-- <a href="#review">المراجعة</a> -->
-        <a class="nav-link " aria-current="page" href="contact1.php" data-scroll="call1">اتصل بنا</a>
+        <a class="nav-link " aria-current="page" href="contact1.html" data-scroll="call1">اتصل بنا</a>
     </nav>
 
     <div class="icons">
